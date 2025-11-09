@@ -31,8 +31,8 @@ Implementasi dan perbandingan dua pendekatan klasifikasi digit tulisan tangan:
 │   └── model_b_transfer_learning.h5
 ├── handwritten/                     # 30 gambar tulisan tangan
 │   ├── digit01_01.jpg
-│   ├── ...
-│   └── digit01_10.jpg
+│   ├── digit02_01.jpg
+│   └── digit03_01.jpg
 └── results/                         # Hasil visualisasi
     ├── mnist_original_samples.png
     ├── ...
