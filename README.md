@@ -14,12 +14,12 @@ Implementasi dan perbandingan dua pendekatan klasifikasi digit tulisan tangan:
 ## Hasil Akhir
 
 ### Model A (CNN dari Nol)
-- Test Accuracy (MNIST): **99.31%**
-- Accuracy Tulisan Tangan: **96.67%** (29/30 benar)
+- Test Accuracy (MNIST): **99.08%**
+- Accuracy Tulisan Tangan: **86.67%** (26/30 benar)
 
 ### Model B (Transfer Learning)
-- Test Accuracy (MNIST): **60.00%**
-- Accuracy Tulisan Tangan: **60.00%** (18/30 benar)
+- Test Accuracy (MNIST): **72.29%**
+- Accuracy Tulisan Tangan: **70.00%** (21/30 benar)
 
 ## Struktur Folder
 ```
@@ -67,7 +67,8 @@ pip install -r requirements.txt
 jupyter notebook UTS_DeepLearning.ipynb
 ```
 
-Atau buka di Google Colab: https://colab.research.google.com/drive/1aIwGr14mYxGPAb5LfnLG_NELxX1MRPgR?authuser=0#scrollTo=1DlCr9FQD4fZ
+Atau buka di Google Colab: 
+https://colab.research.google.com/drive/1aIwGr14mYxGPAb5LfnLG_NELxX1MRPgR?usp=sharing
 
 ## Kesimpulan
 Model CNN sederhana yang dirancang khusus untuk MNIST (Model A) mengungguli 
