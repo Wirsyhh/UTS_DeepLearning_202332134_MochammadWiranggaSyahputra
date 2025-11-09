@@ -30,9 +30,9 @@ Implementasi dan perbandingan dua pendekatan klasifikasi digit tulisan tangan:
 │   ├── model_a_cnn.h5
 │   └── model_b_transfer_learning.h5
 ├── handwritten/                     # 30 gambar tulisan tangan
-│   ├── digit0_01.jpg
+│   ├── digit01_01.jpg
 │   ├── ...
-│   └── digit0_20.jpg
+│   └── digit01_10.jpg
 └── results/                         # Hasil visualisasi
     ├── mnist_original_samples.png
     ├── ...
@@ -53,8 +53,8 @@ Pillow>=8.0.0
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/[USERNAME]/UTS-DeepLearning-[NIM].git
-cd UTS-DeepLearning-[NIM]
+git clone https://github.com/Wirsyhh/UTS-DeepLearning-202332134.git
+cd UTS-DeepLearning-202332134
 ```
 
 ### 2. Install Dependencies
