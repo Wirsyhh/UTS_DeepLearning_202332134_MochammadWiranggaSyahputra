@@ -68,7 +68,7 @@ jupyter notebook UTS_DeepLearning.ipynb
 ```
 
 Atau buka di Google Colab: 
-https://colab.research.google.com/drive/1aIwGr14mYxGPAb5LfnLG_NELxX1MRPgR?usp=sharing
+https://colab.research.google.com/drive/1ESry9mIlwElkAgsXqbDwsfMCJRJvfWT-?usp=sharing
 
 ## Kesimpulan
 Model CNN sederhana yang dirancang khusus untuk MNIST (Model A) mengungguli 
